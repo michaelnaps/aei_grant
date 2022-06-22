@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.5.12)  13 JUN 2022 20:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.5.12)  22 JUN 2022 15:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -456,27 +456,28 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-) [1{/home/michaelnaps/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}
+) (parts/approach.tex [1{/home/michaelnaps/.miktex/texmfs/data/fonts/map/pdftex
+/pdftex.map}
 
-] (root.aux)
+] [2]) [3] (root.aux)
 Package logreq Info: Writing requests to 'root.run.xml'.
 \openout1 = `root.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10870 strings out of 478620
- 207693 string characters out of 2850323
- 958485 words of memory out of 3000000
- 28911 multiletter control sequences out of 15000+600000
- 472263 words of font info for 61 fonts, out of 8000000 for 9000
+ 10911 strings out of 478620
+ 208123 string characters out of 2850323
+ 959515 words of memory out of 3000000
+ 28917 multiletter control sequences out of 15000+600000
+ 473079 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,68p,1003b,801s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 60i,8n,68p,1119b,801s stack positions out of 10000i,1000n,20000p,200000b,80000s
 </usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
 /local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/s
 hare/miktex-texmf/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on root.pdf (1 page, 50164 bytes).
+Output written on root.pdf (3 pages, 62035 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
+ 27 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  12289 words of extra memory for PDF output out of 14400 (max. 10000000)
 
