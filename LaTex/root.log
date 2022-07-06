@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.5.12)  22 JUN 2022 15:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.5.12)  5 JUL 2022 14:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -459,7 +459,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 ) (parts/approach.tex [1{/home/michaelnaps/.miktex/texmfs/data/fonts/map/pdftex
 /pdftex.map}
 
-] [2]) [3] (root.aux)
+] [2]) [3] [4] (root.aux)
 Package logreq Info: Writing requests to 'root.run.xml'.
 \openout1 = `root.run.xml'.
 
@@ -475,9 +475,9 @@ Here is how much of TeX's memory you used:
 </usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
 /local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/s
 hare/miktex-texmf/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on root.pdf (3 pages, 62035 bytes).
+Output written on root.pdf (4 pages, 63647 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
+ 30 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  12289 words of extra memory for PDF output out of 14400 (max. 10000000)
 

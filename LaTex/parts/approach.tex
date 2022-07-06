@@ -44,3 +44,15 @@ The core tubing will be considerably simpler to assemple and can be stylized to 
 
 The largest risk being addressed in this portion of development is the hard constraint for the diameter of the tubing. The most complex portion of the tubing, the end effector, must fit within the confines of commonly used intubating tubes. For development purposes, the constraint can be relaxed to the smallest adult-specific tube available (8mm diameter) instead of tubes used in children. That said, in the event that the TCP and other components do not fit within these constraints, alternatives to this configuration will have to be researched.
 
+\section{Aim 3}
+
+\subsection{Rationale}
+
+The primary goal of Aim 3 will be to integrate the on-board micro-controller with the NN developed in the Spring of 2022 by the computer science and engineering capstone team. Their system utilizes a trained neural network to identify and trace the anatomical features of the mouth from video records. The outputs of the identifier are boxes which encapsulate the feature, as well as a confidence interval value which relays how likely it is that the feature was identified correctly.
+
+The automation component of the device is wholly dependent on the system discussed here. It will most likely be implemented on board the device, but depending on its weight and specs, it may be run on a separate unit, with a more complex communication system. Either way, the device will be capable of this feature with the addition of the camera to the end effector.
+
+\subsection{Approach}
+
+The neural network is largely sitting in a completed state.
+
