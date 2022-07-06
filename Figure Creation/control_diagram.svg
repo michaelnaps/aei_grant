@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50in"
+   height="50in"
+   viewBox="0 0 1270 1270"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="control_diagram.svg"
+   inkscape:export-filename="/home/michaelnaps/bitmap.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8117"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path8115" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker8033"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path8031"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7166"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7164" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5601"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5599"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5203"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <symbol
+       id="AuxillaryOp">
+      <title
+         id="title3669">Auxiliary Operation</title>
+      <desc
+         id="desc3671">Offline operation.</desc>
+      <rect
+         x="9.260417"
+         y="9.260417"
+         width="21.166666"
+         height="21.166666"
+         style="stroke-width:0.52916664"
+         id="rect3673" />
+    </symbol>
+    <symbol
+       id="Decision">
+      <title
+         id="title3646">Decision</title>
+      <desc
+         id="desc3648">A decision or switching type operation.</desc>
+      <path
+         inkscape:connector-curvature="0"
+         d="m 3.96875,19.84375 15.875,-10.5833333 15.875,10.5833333 -15.875,10.583333 z"
+         style="stroke-width:0.52916664"
+         id="path3650" />
+    </symbol>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5561"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5559"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5601-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5599-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5484"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path5482"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5203-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5601-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5599-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7166-6"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path7164-0" />
+    </marker>
+    <symbol
+       id="Connector">
+      <title
+         id="title3732">Connector</title>
+      <desc
+         id="desc3734">Exit to or entry from another part of chart.</desc>
+      <circle
+         cx="19.84375"
+         cy="19.84375"
+         r="5.2916665"
+         style="stroke-width:0.52916664"
+         id="circle3736" />
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1607.7672"
+     inkscape:cy="2649.5682"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g4325-7"
+     showgrid="true"
+     units="in"
+     objecttolerance="10000"
+     inkscape:window-width="1440"
+     inkscape:window-height="863"
+     inkscape:window-x="1440"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4231" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,973)">
+    <g
+       id="g4192"
+       transform="matrix(0.76085422,0,0,0.76085422,207.60192,-538.73246)"
+       inkscape:export-filename="/home/michaelnaps/control_diagram.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         xlink:href="#AuxillaryOp"
+         style="fill:#aaccee;stroke:#000000"
+         transform="matrix(2.30459,0,0,2.3039272,46.498837,96.354712)"
+         id="use4167" />
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,0,81.1)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot4179"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4181"><rect
+             y="166.05939"
+             x="255.91531"
+             height="184.31416"
+             width="184.36719"
+             id="rect4183" /></flowRegion><flowPara
+           style="line-height:45px"
+           id="flowPara4185">Desired Position from NN</flowPara></flowRoot>    </g>
+    <g
+       transform="matrix(0.76086002,0,0,0.76086002,211.77172,-459.56617)"
+       id="g4192-5"
+       inkscape:export-filename="/home/michaelnaps/control_diagram.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g4229"
+         transform="translate(7.1769384,4.543582)">
+        <use
+           id="use4167-3"
+           transform="matrix(2.30459,0,0,2.3039272,33.937169,85.129392)"
+           style="fill:#aaccee;stroke:#000000"
+           xlink:href="#AuxillaryOp"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4179-5"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,-12.670189,69.864345)"><flowRegion
+             id="flowRegion4181-6"><rect
+               id="rect4183-2"
+               width="184.36719"
+               height="184.31416"
+               x="255.91531"
+               y="166.05939" /></flowRegion><flowPara
+             id="flowPara4185-9"
+             style="line-height:45px">Desired Position from User</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       id="g4335"
+       transform="matrix(0.76085422,0,0,0.76085422,318.72691,-501.69076)"
+       inkscape:export-filename="/home/michaelnaps/control_diagram.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g4325"
+         transform="translate(26.080881,13.909805)">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           xlink:href="#Decision"
+           style="fill:#aaccee;stroke:#000000"
+           transform="matrix(1.8619423,0,0,2.3000463,-210.69429,82.562989)"
+           id="use4259" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4179-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,-265.92266,65.322032)"><flowRegion
+             id="flowRegion4181-0"><rect
+               id="rect4183-9"
+               width="184.36719"
+               height="184.31416"
+               x="255.91531"
+               y="166.05939" /></flowRegion><flowPara
+             id="flowPara4185-3"
+             style="line-height:45px" /><flowPara
+             id="flowPara4313"
+             style="line-height:45px">If </flowPara><flowPara
+             id="flowPara4315"
+             style="line-height:45px">AI-Trigger</flowPara></flowRoot>      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Lend-4)"
+       d="m 206.375,-412.08328 v -21.16667 h 52.91667"
+       id="path4359"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michaelnaps/control_diagram.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4361"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-1.6914001,-537.40259)"
+       inkscape:export-filename="/home/michaelnaps/control_diagram.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><flowRegion
+         id="flowRegion4363"><rect
+           id="rect4365"
+           width="280"
+           height="80"
+           x="680"
+           y="376" /></flowRegion><flowPara
+         id="flowPara4367"
+         style="font-size:26.66666794px">True</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5484)"
+       d="m 206.375,-375.04162 v 21.16668 h 52.91667"
+       id="path4369"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michaelnaps/control_diagram.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4361-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-0.75988779,-450.73536)"
+       inkscape:export-filename="/home/michaelnaps/control_diagram.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><flowRegion
+         id="flowRegion4363-7"><rect
+           id="rect4365-6"
+           width="280"
+           height="80"
+           x="680"
+           y="376" /></flowRegion><flowPara
+         id="flowPara4367-3"
+         style="font-size:26.66666794px">False</flowPara></flowRoot>    <g
+       id="g4335-1"
+       transform="matrix(0.76085422,0,0,0.76085422,461.60192,-501.69076)"
+       inkscape:export-filename="/home/michaelnaps/control_diagram.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g4325-7"
+         transform="translate(26.080881,13.909805)">
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           xlink:href="#Decision"
+           style="fill:#aaccee;stroke:#000000"
+           transform="matrix(1.8619423,0,0,2.3000463,-210.69429,82.562989)"
+           id="use4259-5" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4179-7-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,-266.49368,79.137515)"><flowRegion
+             id="flowRegion4181-0-6"><rect
+               id="rect4183-9-2"
+               width="184.36719"
+               height="184.31416"
+               x="255.91531"
+               y="166.05939" /></flowRegion><flowPara
+             id="flowPara4315-8"
+             style="line-height:45px">End If</flowPara></flowRoot>      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5601-5)"
+       d="m 296.33333,-433.24995 h 52.91666 v 21.16667"
+       id="path5549"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michaelnaps/control_diagram.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5561)"
+       d="m 296.33333,-353.87494 h 52.91666 v -21.16668"
+       id="path5551"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/michaelnaps/control_diagram.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
+    <g
+       id="g4192-8"
+       transform="matrix(0.76085422,0,0,0.76085422,355.76858,-501.69079)"
+       inkscape:export-filename="/home/michaelnaps/control_diagram.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600">
+      <g
+         id="g5994">
+        <use
+           id="use4167-5"
+           transform="matrix(2.30459,0,0,2.3039272,46.498837,96.354712)"
+           style="fill:#aaccee;stroke:#000000"
+           xlink:href="#AuxillaryOp"
+           x="0"
+           y="0"
+           width="100%"
+           height="100%" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4179-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           transform="matrix(0.26458333,0,0,0.26458333,-0.09560149,87.045374)"><flowRegion
+             id="flowRegion4181-7"><rect
+               id="rect4183-5"
+               width="184.36719"
+               height="184.31416"
+               x="255.91531"
+               y="166.05939" /></flowRegion><flowPara
+             id="flowPara4185-38"
+             style="line-height:45px">Tracking Controller</flowPara></flowRoot>      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52572489;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker5601)"
+         d="m 20.99089,142.11438 46.945589,-4e-5"
+         id="path5996"
+         inkscape:connector-curvature="0" />
+      <g
+         transform="translate(97.368634,-3.3604263e-6)"
+         id="g5994-3">
+        <g
+           id="g6045">
+          <use
+             height="100%"
+             width="100%"
+             y="0"
+             x="0"
+             xlink:href="#AuxillaryOp"
+             style="fill:#aaccee;stroke:#000000"
+             transform="matrix(2.30459,0,0,2.3039272,46.498837,96.354712)"
+             id="use4167-5-1" />
+          <flowRoot
+             transform="matrix(0.26458333,0,0,0.26458333,0.22479239,85.892989)"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             id="flowRoot4179-9-8"
+             xml:space="preserve"><flowRegion
+               id="flowRegion4181-7-9"><rect
+                 y="166.05939"
+                 x="255.91531"
+                 height="184.31416"
+                 width="184.36719"
+                 id="rect4183-5-6" /></flowRegion><flowPara
+               style="line-height:45px"
+               id="flowPara4185-38-4">System Dynamics</flowPara></flowRoot>        </g>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52572489;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker7166)"
+         d="m 116.62079,142.11434 h 48.68432"
+         id="path7156"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.61245096;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7166-6)"
+         d="m 213.98942,142.11433 h 66.07157"
+         id="path7156-4"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52572489;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker8033)"
+         d="m 245.28649,142.11434 v 97.36863 h -525.09512 v -97.36863"
+         id="path8023"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.52572489;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#marker8117)"
+         d="m -331.9704,142.11434 106.06226,4e-5"
+         id="path8107"
+         inkscape:connector-curvature="0" />
+      <use
+         id="use8209"
+         transform="matrix(1.3143122,0,0,1.3143122,-365.18535,116.12031)"
+         style="fill:#aaccee;stroke:#000000"
+         xlink:href="#Connector"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4361-4-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,-97.800193,-497.69354)"
+       inkscape:export-filename="/home/michaelnaps/control_diagram.png"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600"><flowRegion
+         id="flowRegion4363-7-8"><rect
+           id="rect4365-6-9"
+           width="280"
+           height="80"
+           x="680"
+           y="376" /></flowRegion><flowPara
+         id="flowPara4367-3-7"
+         style="font-size:26.66666794px">User Input</flowPara></flowRoot>  </g>
+</svg>

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.5.12)  5 JUL 2022 14:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.5.12)  6 JUL 2022 17:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -34,13 +34,33 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 )
-(/home/michaelnaps/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
-Package: geometry 2020/01/02 v5.9 Page Geometry
+(/usr/local/share/miktex-texmf/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/local/share/miktex-texmf/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks18
 )
+(/usr/local/share/miktex-texmf/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/share/miktex-texmf/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/share/miktex-texmf/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/usr/local/share/miktex-texmf/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/home/michaelnaps/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
 (/usr/local/share/miktex-texmf/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
@@ -50,14 +70,14 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@cnth=\count195
 \Gm@cntv=\count196
 \c@Gm@tempcnt=\count197
-\Gm@bindingoffset=\dimen139
-\Gm@wd@mp=\dimen140
-\Gm@odd@mp=\dimen141
-\Gm@even@mp=\dimen142
-\Gm@layoutwidth=\dimen143
-\Gm@layoutheight=\dimen144
-\Gm@layouthoffset=\dimen145
-\Gm@layoutvoffset=\dimen146
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks19
 
 (/home/michaelnaps/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
@@ -78,7 +98,7 @@ LaTeX Info: Redefining \noprotrusionifhmode on input line 1027.
 LaTeX Info: Redefining \leftprotrusion on input line 1028.
 LaTeX Info: Redefining \rightprotrusion on input line 1036.
 LaTeX Info: Redefining \textls on input line 1195.
-\MT@outer@kern=\dimen147
+\MT@outer@kern=\dimen149
 LaTeX Info: Redefining \textmicrotypecontext on input line 1781.
 \MT@listname@count=\count266
 
@@ -366,21 +386,41 @@ Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
 (root.aux)
 \openout1 = `root.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+ (/usr/local/share/miktex-texmf/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count395
+\scratchdimen=\dimen150
+\scratchbox=\box52
+\nofMPsegments=\count396
+\nofMParguments=\count397
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count398
+\MPscratchDim=\dimen151
+\MPnumerator=\count399
+\makeMPintoPDFobject=\count400
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/share/miktex-texmf/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
 
+(/usr/local/share/miktex-texmf/tex/latex/00miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -415,18 +455,18 @@ LaTeX Font Info:    ... okay on input line 14.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 14.
-Package microtype Info: Applying patch `item' on input line 14.
-Package microtype Info: Applying patch `toc' on input line 14.
-Package microtype Info: Applying patch `eqnum' on input line 14.
-Package microtype Info: Applying patch `footnote' on input line 14.
+LaTeX Info: Redefining \microtypecontext on input line 17.
+Package microtype Info: Applying patch `item' on input line 17.
+Package microtype Info: Applying patch `toc' on input line 17.
+Package microtype Info: Applying patch `eqnum' on input line 17.
+Package microtype Info: Applying patch `footnote' on input line 17.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 14.
+LaTeX Info: Redefining \showhyphens on input line 17.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -448,36 +488,50 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'root.bbl' found.
  (root.bbl)
-Package biblatex Info: Reference section=0 on input line 14.
-Package biblatex Info: Reference segment=0 on input line 14.
+Package biblatex Info: Reference section=0 on input line 17.
+Package biblatex Info: Reference segment=0 on input line 17.
 
 (parts/specific_aims.tex
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-) (parts/approach.tex [1{/home/michaelnaps/.miktex/texmfs/data/fonts/map/pdftex
-/pdftex.map}
+<./figures//prototype_assembly.png, id=1, 1910.93925pt x 878.20094pt>
+File: ./figures//prototype_assembly.png Graphic file (type png)
+<use ./figures//prototype_assembly.png>
+Package pdftex.def Info: ./figures//prototype_assembly.png  used on input line 
+10.
+(pdftex.def)             Requested size: 477.73364pt x 219.5497pt.
+ [1{/home/michaelnaps/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}
 
-] [2]) [3] [4] (root.aux)
+ <./figures//prototype_assembly.png>]) (parts/approach.tex
+<./figures//control_diagram.png, id=12, 1358.79645pt x 370.986pt>
+File: ./figures//control_diagram.png Graphic file (type png)
+<use ./figures//control_diagram.png>
+Package pdftex.def Info: ./figures//control_diagram.png  used on input line 17.
+
+(pdftex.def)             Requested size: 407.64207pt x 111.29665pt.
+
+[2] [3 <./figures//control_diagram.png>]) [4] [5] (root.aux)
 Package logreq Info: Writing requests to 'root.run.xml'.
 \openout1 = `root.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 10911 strings out of 478620
- 208123 string characters out of 2850323
- 959515 words of memory out of 3000000
- 28917 multiletter control sequences out of 15000+600000
- 473079 words of font info for 77 fonts, out of 8000000 for 9000
+ 11770 strings out of 478620
+ 221509 string characters out of 2850323
+ 973195 words of memory out of 3000000
+ 29739 multiletter control sequences out of 15000+600000
+ 473514 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,68p,1119b,801s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 60i,9n,68p,1119b,801s stack positions out of 10000i,1000n,20000p,200000b,80000s
 </usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
 /local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/s
-hare/miktex-texmf/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on root.pdf (4 pages, 63647 bytes).
+hare/miktex-texmf/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/share/m
+iktex-texmf/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
+Output written on root.pdf (5 pages, 84061175 bytes).
 PDF statistics:
- 30 PDF objects out of 1000 (max. 8388607)
+ 43 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 12289 words of extra memory for PDF output out of 14400 (max. 10000000)
+ 14347 words of extra memory for PDF output out of 14400 (max. 10000000)
 
