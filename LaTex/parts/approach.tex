@@ -21,6 +21,10 @@ Finally, a controller will be implemented (figure \ref{fig:control_diagram}), id
 
 \subsection{Approach}
 
+	\subsubsection{Hypothesis/Timeline}
+
+	
+
 The fabrication of the TCP material will be facilitated through an in-house rope making machine which are standard and can be automated relatively easily. The wire of choice will be silver-coated nylon 66 wire, similar to that used in the initial prototype. The control board of choice for the automation will be an Arduino Uno, and will be used to control the RPM of the machine, as well as the number of spins. The counter-weight attached to the machine can also be adjusted for further variations. For consistency, the length of the TCP created at a given time will be held constant, and will be heat-treated and trained using the research verified by [CITE SOURCE FOR FABRICATION].
 
 Modeling of the TCP system will be the most difficult of the steps discussed in this research. Here, the formula for the TCP dynamics will be simplified to take the inputs current and voltage, and output the tension created after a certain period of time. This is achieved in the research conducted here [CITE MODELING ARTICLE]. The model will be compared to the real TCP using a tension measurement device, and by holding the current and voltage constant over the intended period of time. In this way, the error between the model and the real system can be evaluated at varying configuration settings. With tension calculated, the system then be directly compared to a solely tension-driven actuation system. This effectively turns the model from a current (input) to tension (output) calculation, to a current (input) to motion (output) formula.
@@ -43,6 +47,13 @@ In aim 2, the design of the end effector, and the core tubing is addressed. In t
 
 The core tubing which is extruded from the housing module, and connects to the end effector via a clip system will likewise need to house the necessary wires to the TCP, the ground wire, and the camera wiring. This portion of the tubing will be relatively simple in configuration, with the primary limiting factor being the diameter of the tube.
 
+\begin{figure}[ht]
+	\centering
+	\includegraphics[scale=0.25]{prototype_assembly}
+	\caption{Prototype Assembly Developed in 2021-2022 Academic Year by OSU Capstone Team}
+	\label{fig:prototype_assembly}
+\end{figure}
+
 \subsection{Approach}
 
 The end effector will be constructed with the intent of a two-layer configuration. The center will be comprised of the ground wire and the camera, similar to the prototype made during the OSU capstone project with an insulating tube surrounding the components (layer 1). Next, the TCP will be connected in parallel around the center shaft and connected to the common ground wire. Each string will also be connected to an individual active wire which is used to control the current supplied to the TCP from the main controller. The TCP will then be surrounded by another layer of insulated tubing (layer 2). It is also possible that a third intermediate layer will be introduced to insulate the individual TCP string from one another, this will hopefully be avoidable though as it would unnecessarily increase the diameter of the assembled system. This portion of the device will only span one to two inches in length. Note that the controller need not be completed for testing, in initial scenarios, a simple user-defined analog signal can be used to test motion.
@@ -57,9 +68,9 @@ The largest risk being addressed in this portion of development is the hard cons
 
 \subsection{Rationale}
 
-The primary goal of Aim 3 will be to integrate the on-board micro-controller with the neural network developed in the Spring of 2022 by the computer science and engineering capstone team. Their system utilizes a trained neural network to identify and trace the anatomical features of the mouth from video records. The outputs of the identifier are boxes which encapsulate the feature, as well as a confidence interval value which relays how likely it is that the feature was identified correctly.
+The primary goal of Aim 3 will be to integrate the on-board micro-controller with the neural network developed in the Spring of 2022 by the computer science and engineering capstone team. Their system utilizes a trained neural network to identify and trace the anatomical features of the airway from video records. The outputs of the identifier are boxes which encapsulate the feature, as well as a confidence interval value which relays how likely it is that the feature was identified correctly.
 
-The automation component of the device is wholly dependent on the system discussed here. It will most likely be implemented on board the device, but depending on its weight and specs, it may be run on a separate unit, with a more complex communication system. Either way, the device will be capable of this feature with the addition of the camera to the end effector.
+The automation component of the device is wholly dependent on the system discussed here. It will most likely be implemented on board the device, but depending on its weight and specifications, it may be run on a separate unit, with a more complex communication system. Either way, the device will be capable of this feature with the addition of the camera to the end effector.
 
 \subsection{Approach}
 
@@ -69,4 +80,4 @@ Once the network is trained, a communication system between the on-board micro-c
 
 \subsection{Risks and Alternatives}
 
-The largest risk in the development of the neural network is defining the level of confidence which the controller will allow before deciding a motion is safe. In other words, how low of a confidence is acceptable before the controller refuses to move in that direction. Setting this value too low factors in an obvious level of risk to the patient, as the device may navigate towards incorrectly identified features. Setting this setting too high may put the device at risk of stalling, i.e. reaching a point where no features are identifiable and not being able to make a decision. Ideally, a fail-safe will be implemented to account for this but it is also important to remember that the device as a whole is being designed with the intent that the physician is never absent from the procedure. They are required to watch the approach of the robot into the airway, and in these rare instances they would easily be able to manually override the neural network and move the robot in the proper direction.
+The largest risk in the development of the neural network is defining the level of confidence which the controller will allow before deciding a motion is safe. In other words, how low of a confidence is acceptable before the controller refuses to move in that direction. Setting this value too low factors in an obvious level of risk to the patient, as the device may navigate towards incorrectly identified features. Setting this setting too high may put the device at risk of stalling, i.e. reaching a point where no features are identifiable and not being able to make a decision. Ideally, a fail-safe will be implemented to account for this but it is also important to remember that the device as a whole is being designed with the intent that the practitioner is never absent from the procedure. They are required to watch the approach of the robot into the airway, and in these rare instances they would easily be able to manually override the neural network and move the robot in the proper direction.
