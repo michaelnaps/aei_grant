@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.5.12)  19 JUL 2022 13:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.5.12)  27 JUL 2022 13:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -429,14 +429,14 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(56.90552pt, 483.69684pt, 56.90552pt)
+* h-part:(L,W,R)=(85.35826pt, 426.79134pt, 85.35828pt)
 * v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=483.69684pt
+* \textwidth=426.79134pt
 * \textheight=702.78308pt
-* \oddsidemargin=-15.36447pt
-* \evensidemargin=-15.36447pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
 * \topmargin=-38.1381pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -491,62 +491,45 @@ Package biblatex Info: ... file 'root.bbl' found.
 Package biblatex Info: Reference section=0 on input line 17.
 Package biblatex Info: Reference segment=0 on input line 17.
 
-(parts/specific_aims.tex
+(parts/modeling.tex
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<./figures//aim123_objectives.png, id=1, 497.4585pt x 543.10905pt>
-File: ./figures//aim123_objectives.png Graphic file (type png)
-<use ./figures//aim123_objectives.png>
-Package pdftex.def Info: ./figures//aim123_objectives.png  used on input line 1
-0.
-(pdftex.def)             Requested size: 397.96733pt x 434.48784pt.
- [1{/home/michaelnaps/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}
-
- <./figures//aim123_objectives.png>]) [2] (parts/approach.tex
-<./figures//control_diagram.png, id=15, 1358.79645pt x 370.986pt>
-File: ./figures//control_diagram.png Graphic file (type png)
-<use ./figures//control_diagram.png>
-Package pdftex.def Info: ./figures//control_diagram.png  used on input line 17.
-
-(pdftex.def)             Requested size: 407.64207pt x 111.29665pt.
-
-[3 <./figures//control_diagram.png>]
-<./figures//prototype_assembly.png, id=20, 1910.8188pt x 878.0805pt>
-File: ./figures//prototype_assembly.png Graphic file (type png)
-<use ./figures//prototype_assembly.png>
-Package pdftex.def Info: ./figures//prototype_assembly.png  used on input line 
-52.
-(pdftex.def)             Requested size: 477.70354pt x 219.51959pt.
- [4 <./figures//prototype_assembly.png>])
-[5] [6] (parts/experiments.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 11.
+(Font)              <7> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 11.
- [7]) [8] (root.aux)
+(Font)              <5> on input line 8.
+) [1{/home/michaelnaps/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}
+
+] (root.aux)
 Package logreq Info: Writing requests to 'root.run.xml'.
 \openout1 = `root.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 11840 strings out of 478620
- 222780 string characters out of 2850323
- 973211 words of memory out of 3000000
- 29783 multiletter control sequences out of 15000+600000
- 474601 words of font info for 91 fonts, out of 8000000 for 9000
+ 11733 strings out of 478620
+ 220865 string characters out of 2850323
+ 972198 words of memory out of 3000000
+ 29738 multiletter control sequences out of 15000+600000
+ 472827 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,8n,68p,1128b,801s stack positions out of 10000i,1000n,20000p,200000b,80000s
-</usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local
-/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/share/m
-iktex-texmf/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/share/miktex-
-texmf/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/share/miktex-texm
-f/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on root.pdf (8 pages, 15049427 bytes).
+ 60i,9n,68p,1003b,801s stack positions out of 10000i,1000n,20000p,200000b,80000s
+</usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmex10.pfb></us
+r/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/loca
+l/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/share
+/miktex-texmf/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/share/miktex
+-texmf/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/share/miktex-texmf/
+fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local/share/miktex-texmf/fonts/ty
+pe1/public/amsfonts/cm/cmr7.pfb></usr/local/share/miktex-texmf/fonts/type1/publ
+ic/amsfonts/cm/cmr9.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfo
+nts/cm/cmssbx10.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cms
+y5.pfb></usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+</usr/local/share/miktex-texmf/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on root.pdf (1 page, 148084 bytes).
 PDF statistics:
- 66 PDF objects out of 1000 (max. 8388607)
+ 71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 22544 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 18433 words of extra memory for PDF output out of 20736 (max. 10000000)
 
