@@ -19,294 +19,79 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{saharan_novel_2019}{incollection}{}
-      \name{author}{2}{}{%
-        {{hash=1126c91971e1d7e28efbf3b3c3acb31f}{%
+    \entry{wu_compact_2017}{article}{}
+      \name{author}{6}{}{%
+        {{hash=13d6f311a21a037bed6e5f3bc9118b13}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Lianjun},
+           giveni={L\bibinitperiod}}}%
+        {{hash=cffc1fc86221c8e45bcb740a2de55a94}{%
+           family={Jung\bibnamedelimb de\bibnamedelima Andrade},
+           familyi={J\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Monica},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3908f286a0d7cfeb8275f1f1a7cff4f1}{%
            family={Saharan},
            familyi={S\bibinitperiod},
-           given={Lokesh},
-           giveni={L\bibinitperiod}}}%
+           given={Lokesh\bibnamedelima Kumar},
+           giveni={L\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=6420ad8d287a5003aad0f8ed52ac261f}{%
+           family={Rome},
+           familyi={R\bibinitperiod},
+           given={Richard\bibnamedelima Steven},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b49476c21450db80576c36367d5aa4c0}{%
+           family={Baughman},
+           familyi={B\bibinitperiod},
+           given={Ray\bibnamedelima H},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
         {{hash=dcd30770b1688a08d519c1cb355e7dc3}{%
            family={Tadesse},
            familyi={T\bibinitperiod},
            given={Yonas},
            giveni={Y\bibinitperiod}}}%
       }
-      \list{language}{1}{%
-        {en}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier}%
-      }
-      \strng{namehash}{0a312c3406e8c6eb09f1678d4eb38679}
-      \strng{fullhash}{0a312c3406e8c6eb09f1678d4eb38679}
-      \strng{bibnamehash}{0a312c3406e8c6eb09f1678d4eb38679}
-      \strng{authorbibnamehash}{0a312c3406e8c6eb09f1678d4eb38679}
-      \strng{authornamehash}{0a312c3406e8c6eb09f1678d4eb38679}
-      \strng{authorfullhash}{0a312c3406e8c6eb09f1678d4eb38679}
+      \strng{namehash}{1b89470729e11831b6f5cc1653e9a98e}
+      \strng{fullhash}{ced61b1481a93dfdd29ae92f014fbcac}
+      \strng{bibnamehash}{1b89470729e11831b6f5cc1653e9a98e}
+      \strng{authorbibnamehash}{1b89470729e11831b6f5cc1653e9a98e}
+      \strng{authornamehash}{1b89470729e11831b6f5cc1653e9a98e}
+      \strng{authorfullhash}{ced61b1481a93dfdd29ae92f014fbcac}
       \field{sortinit}{1}
       \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Materials for {Biomedical} {Engineering}}
-      \field{isbn}{978-0-12-816909-4}
-      \field{title}{Novel twisted and coiled polymer artificial muscles for biomedical and robotics applications}
-      \field{urlday}{24}
-      \field{urlmonth}{5}
+      \field{abstract}{This paper focuses on design, fabrication and characterization of a biomimetic, compact, low-cost and lightweight 3D printed humanoid hand ({TCP} Hand) that is actuated by twisted and coiled polymeric ({TCP}) artificial muscles. The {TCP} muscles were recently introduced and provided unprecedented strain, mechanical work, and lifecycle (Haines et al 2014 Science 343 868–72). The five-fingered humanoid hand is under-actuated and has 16 degrees of freedom ({DOF}) in total (15 for fingers and 1 at the palm). In the under-actuated hand designs, a single actuator provides coupled motions at the phalanges of each finger. Two different designs are presented along with the essential elements consisting of actuators, springs, tendons and guide systems. Experiments were conducted to investigate the performance of the {TCP} muscles in response to the power input (power magnitude, type of wave form such as pulsed or square wave, and pulse duration) and the resulting actuation stroke and force generation. A kinematic model of the flexor tendons was developed to simulate the flexion motion and compare with experimental results. For fast finger movements, short high-power pulses were employed. Finally, we demonstrated the grasping of various objects using the humanoid {TCP} hand showing an array of functions similar to a natural hand.}
+      \field{day}{3}
+      \field{issn}{1748-3190}
+      \field{journaltitle}{Bioinspir. Biomim.}
+      \field{langid}{english}
+      \field{month}{2}
+      \field{number}{2}
+      \field{title}{Compact and low-cost humanoid hand powered by nylon artificial muscles}
+      \field{urlday}{2}
+      \field{urlmonth}{8}
       \field{urlyear}{2022}
-      \field{year}{2019}
+      \field{volume}{12}
+      \field{year}{2017}
+      \field{dateera}{ce}
       \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{45\bibrangedash 75}
-      \range{pages}{31}
+      \field{pages}{026004}
+      \range{pages}{1}
       \verb{doi}
-      \verb 10.1016/B978-0-12-816909-4.00003-8
+      \verb 10.1088/1748-3190/aa52f8
       \endverb
       \verb{file}
-      \verb Saharan and Tadesse - 2019 - Novel twisted and coiled polymer artificial muscle.pdf:/home/michaelnaps/Zotero/storage/WXJWC7E5/Saharan and Tadesse - 2019 - Novel twisted and coiled polymer artificial muscle.pdf:application/pdf
+      \verb Wu et al. - 2017 - Compact and low-cost humanoid hand powered by nylo.pdf:/home/michaelnaps/Zotero/storage/9XRXZFBC/Wu et al. - 2017 - Compact and low-cost humanoid hand powered by nylo.pdf:application/pdf
       \endverb
       \verb{urlraw}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/B9780128169094000038
+      \verb https://iopscience.iop.org/article/10.1088/1748-3190/aa52f8
       \endverb
       \verb{url}
-      \verb https://linkinghub.elsevier.com/retrieve/pii/B9780128169094000038
+      \verb https://iopscience.iop.org/article/10.1088/1748-3190/aa52f8
       \endverb
-    \endentry
-    \entry{haines_new_2016}{article}{}
-      \name{author}{6}{}{%
-        {{hash=54b80fa2539ba5eae769fddcf5238513}{%
-           family={Haines},
-           familyi={H\bibinitperiod},
-           given={Carter\bibnamedelima S.},
-           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=0c3bb2625d92599a7df7d96021e7219d}{%
-           family={Li},
-           familyi={L\bibinitperiod},
-           given={Na},
-           giveni={N\bibinitperiod}}}%
-        {{hash=d6dc1c5b94eb1c8057d722642dfc4782}{%
-           family={Spinks},
-           familyi={S\bibinitperiod},
-           given={Geoffrey\bibnamedelima M.},
-           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=f0e0cfa61db70e3c3210725421a221b6}{%
-           family={Aliev},
-           familyi={A\bibinitperiod},
-           given={Ali\bibnamedelima E.},
-           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=ad1a47e9be6635be2ea53cf123f2d140}{%
-           family={Di},
-           familyi={D\bibinitperiod},
-           given={Jiangtao},
-           giveni={J\bibinitperiod}}}%
-        {{hash=b49476c21450db80576c36367d5aa4c0}{%
-           family={Baughman},
-           familyi={B\bibinitperiod},
-           given={Ray\bibnamedelima H.},
-           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
-      }
-      \strng{namehash}{146a996c27af32d15828e5d2e5f5569a}
-      \strng{fullhash}{cc810eca491e62eec890437152eee1cc}
-      \strng{bibnamehash}{146a996c27af32d15828e5d2e5f5569a}
-      \strng{authorbibnamehash}{146a996c27af32d15828e5d2e5f5569a}
-      \strng{authornamehash}{146a996c27af32d15828e5d2e5f5569a}
-      \strng{authorfullhash}{cc810eca491e62eec890437152eee1cc}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Proceedings of the National Academy of Sciences}
-      \field{month}{10}
-      \field{note}{Publisher: Proceedings of the National Academy of Sciences}
-      \field{number}{42}
-      \field{title}{New twist on artificial muscles}
-      \field{urlday}{24}
-      \field{urlmonth}{5}
-      \field{urlyear}{2022}
-      \field{volume}{113}
-      \field{year}{2016}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{11709\bibrangedash 11716}
-      \range{pages}{8}
-      \verb{doi}
-      \verb 10.1073/pnas.1605273113
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/home/michaelnaps/Zotero/storage/PWCSDYY5/Haines et al. - 2016 - New twist on artificial muscles.pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://www.pnas.org/doi/full/10.1073/pnas.1605273113
-      \endverb
-      \verb{url}
-      \verb https://www.pnas.org/doi/full/10.1073/pnas.1605273113
-      \endverb
-      \keyw{Artificial Muscles,TCP}
-    \endentry
-    \entry{noauthor_most_nodate}{misc}{}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
-      \field{labeltitlesource}{title}
-      \field{title}{Most {Frequent} {Procedures} {Performed} in {U}.{S}. {Hospitals}, 2011 - {Statistical} {Brief} \#165}
-      \field{urlday}{6}
-      \field{urlmonth}{6}
-      \field{urlyear}{2022}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{file}
-      \verb Most Frequent Procedures Performed in U.S. Hospitals, 2011 - Statistical Brief #165:/home/michaelnaps/Zotero/storage/PXPE2C96/sb165.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.hcup-us.ahrq.gov/reports/statbriefs/sb165.jsp
-      \endverb
-      \verb{url}
-      \verb https://www.hcup-us.ahrq.gov/reports/statbriefs/sb165.jsp
-      \endverb
-      \keyw{Frequent Procedures}
-    \endentry
-    \entry{hemmerling_first_2012}{article}{}
-      \name{author}{6}{}{%
-        {{hash=ccda01609749dda234bbb00ab777bc58}{%
-           family={Hemmerling},
-           familyi={H\bibinitperiod},
-           given={T.\bibnamedelimi M.},
-           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
-        {{hash=b9a404d25f87559b7f51fdc7b31d7c1e}{%
-           family={Taddei},
-           familyi={T\bibinitperiod},
-           given={R.},
-           giveni={R\bibinitperiod}}}%
-        {{hash=4a77a5135b08ba80412303800831cb77}{%
-           family={Wehbe},
-           familyi={W\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
-        {{hash=b42d8f3ed84517afe866ba8d3689a30f}{%
-           family={Zaouter},
-           familyi={Z\bibinitperiod},
-           given={C.},
-           giveni={C\bibinitperiod}}}%
-        {{hash=b6092181c84897174c77560729b89df4}{%
-           family={Cyr},
-           familyi={C\bibinitperiod},
-           given={S.},
-           giveni={S\bibinitperiod}}}%
-        {{hash=65a7779ab0ed11c961d27952d8269ec3}{%
-           family={Morse},
-           familyi={M\bibinitperiod},
-           given={J.},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {English}%
-      }
-      \strng{namehash}{2f7ca5c41b217166bc093dc7d747095e}
-      \strng{fullhash}{dcca6e658db3dd676a719b5e7024e6b8}
-      \strng{bibnamehash}{2f7ca5c41b217166bc093dc7d747095e}
-      \strng{authorbibnamehash}{2f7ca5c41b217166bc093dc7d747095e}
-      \strng{authornamehash}{2f7ca5c41b217166bc093dc7d747095e}
-      \strng{authorfullhash}{dcca6e658db3dd676a719b5e7024e6b8}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0007-0912, 1471-6771}
-      \field{journaltitle}{British Journal of Anaesthesia}
-      \field{month}{6}
-      \field{note}{Publisher: Elsevier}
-      \field{number}{6}
-      \field{title}{First robotic tracheal intubations in humans using the {Kepler} intubation system}
-      \field{urlday}{6}
-      \field{urlmonth}{6}
-      \field{urlyear}{2022}
-      \field{volume}{108}
-      \field{year}{2012}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{1011\bibrangedash 1016}
-      \range{pages}{6}
-      \verb{doi}
-      \verb 10.1093/bja/aes034
-      \endverb
-      \verb{file}
-      \verb Full Text PDF:/home/michaelnaps/Zotero/storage/CU54XMC9/Hemmerling et al. - 2012 - First robotic tracheal intubations in humans using.pdf:application/pdf;Snapshot:/home/michaelnaps/Zotero/storage/K6HY6HF8/fulltext.html:text/html
-      \endverb
-      \verb{urlraw}
-      \verb https://www.bjanaesthesia.org/article/S0007-0912(17)32196-7/fulltext
-      \endverb
-      \verb{url}
-      \verb https://www.bjanaesthesia.org/article/S0007-0912(17)32196-7/fulltext
-      \endverb
-      \keyw{airway,larynx,robot,Robot Intubation,tracheal intubation}
-    \endentry
-    \entry{bernhard_first_2015}{article}{}
-      \name{author}{5}{}{%
-        {{hash=5eaba9edc5caa618157dccec75fcb233}{%
-           family={Bernhard},
-           familyi={B\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod}}}%
-        {{hash=127369f643379c55d128a8f3d549a318}{%
-           family={Becker},
-           familyi={B\bibinitperiod},
-           given={Torben\bibnamedelima K.},
-           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
-        {{hash=6d0d3d246f520ad633e85b7dd627d5d1}{%
-           family={Gries},
-           familyi={G\bibinitperiod},
-           given={André},
-           giveni={A\bibinitperiod}}}%
-        {{hash=4ad89fac879c5b6b921a36b13e6458a6}{%
-           family={Knapp},
-           familyi={K\bibinitperiod},
-           given={Jürgen},
-           giveni={J\bibinitperiod}}}%
-        {{hash=07d80ec68926e37ebc33d501320ab808}{%
-           family={Wenzel},
-           familyi={W\bibinitperiod},
-           given={Volker},
-           giveni={V\bibinitperiod}}}%
-      }
-      \list{language}{1}{%
-        {en}%
-      }
-      \strng{namehash}{0deadf4bee0b64de613c3c44b7e779d6}
-      \strng{fullhash}{6b04bcbc89aadeed916bf5763cc724fb}
-      \strng{bibnamehash}{0deadf4bee0b64de613c3c44b7e779d6}
-      \strng{authorbibnamehash}{0deadf4bee0b64de613c3c44b7e779d6}
-      \strng{authornamehash}{0deadf4bee0b64de613c3c44b7e779d6}
-      \strng{authorfullhash}{6b04bcbc89aadeed916bf5763cc724fb}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{issn}{0003-2999}
-      \field{journaltitle}{Anesthesia \& Analgesia}
-      \field{month}{11}
-      \field{number}{5}
-      \field{shorttitle}{The {First} {Shot} {Is} {Often} the {Best} {Shot}}
-      \field{title}{The {First} {Shot} {Is} {Often} the {Best} {Shot}: {First}-{Pass} {Intubation} {Success} in {Emergency} {Airway} {Management}}
-      \field{urlday}{6}
-      \field{urlmonth}{6}
-      \field{urlyear}{2022}
-      \field{volume}{121}
-      \field{year}{2015}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \field{pages}{1389\bibrangedash 1393}
-      \range{pages}{5}
-      \verb{doi}
-      \verb 10.1213/ANE.0000000000000891
-      \endverb
-      \verb{file}
-      \verb Bernhard et al. - 2015 - The First Shot Is Often the Best Shot First-Pass .pdf:/home/michaelnaps/Zotero/storage/QS3ENZ8C/Bernhard et al. - 2015 - The First Shot Is Often the Best Shot First-Pass .pdf:application/pdf
-      \endverb
-      \verb{urlraw}
-      \verb https://journals.lww.com/00000539-201511000-00039
-      \endverb
-      \verb{url}
-      \verb https://journals.lww.com/00000539-201511000-00039
-      \endverb
+      \keyw{{TCP}}
     \endentry
   \enddatalist
 \endrefsection

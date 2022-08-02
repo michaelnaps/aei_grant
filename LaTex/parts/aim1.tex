@@ -1,4 +1,43 @@
-\subsection{Specific Aim 1}
-\label{sect:aim1}
+\section{Aim 1}
 
-In this section, the aim designated to the controller design of the TCP end effector will be discussed. This aim will be further dissected into three sub-aims; fabrication, modeling, and control design. Because of the need for consistne t
+\subsection{Rationale}
+
+Aim 1 is centered around the creation and modeling of the TCP material. There are multiple methods used to make this process consistent and reliable. Most notably those described in \cite{wu_compact_2017}, where the TCP actuation method is used to manipulate a humanoid hand. With the purpose of simplfication of the creation/modeling process, a precursor fiber with similar specifications to that of the aforementioned article will be purchased.
+
+In order to achieve a consistent fabrication process, the TCP will be spun using an automated system; similar to that of a rope making machine. The system will be configurable to a set number of rotations, and a set RPM speed, as well as having connections for an adjustable counter-weight which will be used as the third and final configuration input when making the material. Once the fabrication process is created and checked for consistency, data will be collected on the actuation capabilities of the string with varying configuration inputs. A setup will be chosen based on the data collected.
+
+The next step is to derive a control model formula which can represent the tension exhibited by a single strand of the TCP with inputs of current $[Amps]$ and time $[seconds]$. The constant parameters of the system will ideally be the same as the parameters used when creating the TCP string, but will require more testing to legitimize. Because TCP is actuated via heat generation, the system dynamics will be time-dependent, and will be discussed in the next section.
+
+Finally, a controller will be implemented (figure \ref{fig:control_diagram}), ideally using the aforementioned model formula. The current plan is to utilize an optimal control policy with the inclusion of an accurate model. In cases where the model cannot be applied, a simpler sub-optimal policy may be used instead. Both options are feasible.
+
+\begin{figure}[ht]
+	\centering
+	\includegraphics[scale=0.30]{control_diagram}
+	\caption{AEI System Control Diagram}
+	\label{fig:control_diagram}
+\end{figure}
+
+Figure \ref{fig:control_diagram} shows the planned controller structure. The user-input block is a set of parameters received from the user during runtime. This will tell the device whether the user is in manual or automated operation modes, and will split into two similarly structured decision branches. With a desired trjectory chosen, the tracking controller will decide the necessary current value before uploading the results to the system dynamics and continuing.
+
+\subsection{Approach}
+
+	\subsubsection{Hypothesis/Timeline}
+
+The fabrication of the TCP material will be facilitated through an in-house rope making machine which are standard and can be automated relatively easily. The wire of choice will be silver-coated nylon 66 wire, similar to that used in the initial prototype. The control board of choice for the automation will be an Arduino Uno, and will be used to control the RPM of the machine, as well as the number of spins. The counter-weight attached to the machine can also be adjusted for further variations. For consistency, the length of the TCP created at a given time will be held constant, and will be heat-treated and trained using the research verified by [CITE SOURCE FOR FABRICATION].
+
+Modeling of the TCP system will be the most difficult of the steps discussed in this research. Here, the formula for the TCP dynamics will be simplified to take the inputs current and voltage, and output the tension created after a certain period of time. This is achieved in the research conducted here [CITE MODELING ARTICLE]. The model will be compared to the real TCP using a tension measurement device, and by holding the current and voltage constant over the intended period of time. In this way, the error between the model and the real system can be evaluated at varying configuration settings. With tension calculated, the system then be directly compared to a solely tension-driven actuation system. This effectively turns the model from a current (input) to tension (output) calculation, to a current (input) to motion (output) formula.
+
+The controller for the system will ideally be model-dependent. It is understood that model-dependent controllers, when accurately tuned, create the most effective system controllers and are more reliable and robust then model-independent alternatives. Also, considering the time-dependence of the TCP system, the use of MPC will be prioritized because of its ability to look into future states and solve for the optimal set of inputs at a given point in time.
+
+	\subsubsection{Modeling Techniques}
+	\input{parts/modeling}
+	
+	\subsubsection{Experimental Process}
+
+\subsection{Risks and Alternatives}
+
+It is understood that all of the steps taken in this portion of the development process are subject to considerable obstacles. That said, each of the discussed approaches have alternative methods of attack which should still achieve the overarching goals of the project.
+
+In the case of the fabrication. It is likely that the TCP string may be too thin, inconsistent string could be purchased, or the machine itself may be too intricate to make/program in-house. In the scenario of thin or inconsistent string, there are many companies that make the intended wire and ordering thicker/more consistent silver-coated polymer wire is possible. Once a certain brand of wire proves sufficient, it will be ordered in bulk and used for the remainder of the project. If the machine proves too intricate to make by hand, it is also possible to order small scale rope making machines online.
+
+Since TCP is a relatively new form of actuation and is time-dependent, verified methods of modeling are not easily found. Here, the equations derived from the research of Farzad Karami and Yonas Tadesse in [CITE MODELING ARTICLE] will be used to supplement the formulations found in-house. In the extreme case that the model cannot be derived analytically, it is also possible to train a neural network to produce the intended behavior. This would involve considerably more data on configuration details, but is very possible and has been done for likewise projects in the past [SE3-nets ARTICLE, YANG AND MENG ARTICLE].

@@ -1,15 +1,15 @@
 [0] Config.pm:307> INFO - This is Biber 2.17
 [0] Config.pm:310> INFO - Logfile is 'root.blg'
-[48] biber:340> INFO - === Sun Jun 12, 2022, 18:48:32
-[57] Biber.pm:418> INFO - Reading 'root.bcf'
-[104] Biber.pm:969> INFO - Using all citekeys in bib section 0
-[113] Biber.pm:4383> INFO - Processing section 0
-[120] Biber.pm:4574> INFO - Looking for bibtex file 'references.bib' for section 0
-[121] bibtex.pm:1713> INFO - LaTeX decoding ...
-[127] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
-[210] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[210] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[210] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[210] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
-[218] bbl.pm:654> INFO - Writing 'root.bbl' with encoding 'UTF-8'
-[222] bbl.pm:757> INFO - Output to root.bbl
+[67] biber:340> INFO - === Tue Aug  2, 2022, 10:33:53
+[79] Biber.pm:418> INFO - Reading 'root.bcf'
+[137] Biber.pm:972> INFO - Found 1 citekeys in bib section 0
+[148] Biber.pm:4383> INFO - Processing section 0
+[157] Biber.pm:4574> INFO - Looking for bibtex file 'references.bib' for section 0
+[158] bibtex.pm:1713> INFO - LaTeX decoding ...
+[178] bibtex.pm:1518> INFO - Found BibTeX data source 'references.bib'
+[216] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[216] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[216] Biber.pm:4203> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[216] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[221] bbl.pm:654> INFO - Writing 'root.bbl' with encoding 'UTF-8'
+[223] bbl.pm:757> INFO - Output to root.bbl
