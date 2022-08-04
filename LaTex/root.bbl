@@ -93,6 +93,407 @@
       \endverb
       \keyw{{TCP}}
     \endentry
+    \entry{haines_new_2016}{article}{}
+      \name{author}{6}{}{%
+        {{hash=54b80fa2539ba5eae769fddcf5238513}{%
+           family={Haines},
+           familyi={H\bibinitperiod},
+           given={Carter\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0c3bb2625d92599a7df7d96021e7219d}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Na},
+           giveni={N\bibinitperiod}}}%
+        {{hash=d6dc1c5b94eb1c8057d722642dfc4782}{%
+           family={Spinks},
+           familyi={S\bibinitperiod},
+           given={Geoffrey\bibnamedelima M.},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=f0e0cfa61db70e3c3210725421a221b6}{%
+           family={Aliev},
+           familyi={A\bibinitperiod},
+           given={Ali\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=ad1a47e9be6635be2ea53cf123f2d140}{%
+           family={Di},
+           familyi={D\bibinitperiod},
+           given={Jiangtao},
+           giveni={J\bibinitperiod}}}%
+        {{hash=b49476c21450db80576c36367d5aa4c0}{%
+           family={Baughman},
+           familyi={B\bibinitperiod},
+           given={Ray\bibnamedelima H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{146a996c27af32d15828e5d2e5f5569a}
+      \strng{fullhash}{cc810eca491e62eec890437152eee1cc}
+      \strng{bibnamehash}{146a996c27af32d15828e5d2e5f5569a}
+      \strng{authorbibnamehash}{146a996c27af32d15828e5d2e5f5569a}
+      \strng{authornamehash}{146a996c27af32d15828e5d2e5f5569a}
+      \strng{authorfullhash}{cc810eca491e62eec890437152eee1cc}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{18}
+      \field{journaltitle}{Proceedings of the National Academy of Sciences}
+      \field{month}{10}
+      \field{note}{Publisher: Proceedings of the National Academy of Sciences}
+      \field{number}{42}
+      \field{title}{New twist on artificial muscles}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2022}
+      \field{volume}{113}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{11709\bibrangedash 11716}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1073/pnas.1605273113
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/michaelnaps/Zotero/storage/PWCSDYY5/Haines et al. - 2016 - New twist on artificial muscles.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.pnas.org/doi/full/10.1073/pnas.1605273113
+      \endverb
+      \verb{url}
+      \verb https://www.pnas.org/doi/full/10.1073/pnas.1605273113
+      \endverb
+      \keyw{Artificial Muscles,{TCP}}
+    \endentry
+    \entry{saharan_novel_2019}{incollection}{}
+      \name{author}{2}{}{%
+        {{hash=1126c91971e1d7e28efbf3b3c3acb31f}{%
+           family={Saharan},
+           familyi={S\bibinitperiod},
+           given={Lokesh},
+           giveni={L\bibinitperiod}}}%
+        {{hash=dcd30770b1688a08d519c1cb355e7dc3}{%
+           family={Tadesse},
+           familyi={T\bibinitperiod},
+           given={Yonas},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{0a312c3406e8c6eb09f1678d4eb38679}
+      \strng{fullhash}{0a312c3406e8c6eb09f1678d4eb38679}
+      \strng{bibnamehash}{0a312c3406e8c6eb09f1678d4eb38679}
+      \strng{authorbibnamehash}{0a312c3406e8c6eb09f1678d4eb38679}
+      \strng{authornamehash}{0a312c3406e8c6eb09f1678d4eb38679}
+      \strng{authorfullhash}{0a312c3406e8c6eb09f1678d4eb38679}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Materials for Biomedical Engineering}
+      \field{isbn}{978-0-12-816909-4}
+      \field{langid}{english}
+      \field{title}{Novel twisted and coiled polymer artificial muscles for biomedical and robotics applications}
+      \field{urlday}{24}
+      \field{urlmonth}{5}
+      \field{urlyear}{2022}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{45\bibrangedash 75}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1016/B978-0-12-816909-4.00003-8
+      \endverb
+      \verb{file}
+      \verb Saharan and Tadesse - 2019 - Novel twisted and coiled polymer artificial muscle.pdf:/home/michaelnaps/Zotero/storage/WXJWC7E5/Saharan and Tadesse - 2019 - Novel twisted and coiled polymer artificial muscle.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/B9780128169094000038
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/B9780128169094000038
+      \endverb
+    \endentry
+    \entry{rao_how_2021}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ab4926e1b201c73387019197827f4f1e}{%
+           family={Rao},
+           familyi={R\bibinitperiod},
+           given={Priyanka},
+           giveni={P\bibinitperiod}}}%
+        {{hash=1f2ddff0148891fe5b317bf350ee2a1d}{%
+           family={Peyron},
+           familyi={P\bibinitperiod},
+           given={Quentin},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=b664b2a22ed56d015dc6d91ee2c07130}{%
+           family={Lilge},
+           familyi={L\bibinitperiod},
+           given={Sven},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a338e7425873703caeddb78596ed3f88}{%
+           family={Burgner-Kahrs},
+           familyi={B\bibinithyphendelim K\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{a87824e70a98c1136a956e02a15b082e}
+      \strng{fullhash}{57a485d9ebbed015198b987be6c7f8e8}
+      \strng{bibnamehash}{a87824e70a98c1136a956e02a15b082e}
+      \strng{authorbibnamehash}{a87824e70a98c1136a956e02a15b082e}
+      \strng{authornamehash}{a87824e70a98c1136a956e02a15b082e}
+      \strng{authorfullhash}{57a485d9ebbed015198b987be6c7f8e8}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Tendon actuation is one of the most prominent actuation principles for continuum robots. To date, a wide variety of modelling approaches has been derived to describe the deformations of tendon-driven continuum robots. Motivated by the need for a comprehensive overview of existing methodologies, this work summarizes and outlines state-of-the-art modelling approaches. In particular, the most relevant models are classified based on backbone representations and kinematic as well as static assumptions. Numerical case studies are conducted to compare the performance of representative modelling approaches from the current state-of-the-art, considering varying robot parameters and scenarios. The approaches show different performances in terms of accuracy and computation time. Guidelines for the selection of the most suitable approach for given designs of tendon-driven continuum robots and applications are deduced from these results.}
+      \field{issn}{2296-9144}
+      \field{journaltitle}{Frontiers in Robotics and {AI}}
+      \field{title}{How to Model Tendon-Driven Continuum Robots and Benchmark Modelling Performance}
+      \field{urlday}{27}
+      \field{urlmonth}{7}
+      \field{urlyear}{2022}
+      \field{volume}{7}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:/home/michaelnaps/Zotero/storage/HY96674T/Rao et al. - 2021 - How to Model Tendon-Driven Continuum Robots and Be.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/articles/10.3389/frobt.2020.630245
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/articles/10.3389/frobt.2020.630245
+      \endverb
+      \keyw{Continuum Robotics}
+    \endentry
+    \entry{yang_top-down_2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ac73029802228bb0d0013237763e027e}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Qianxi},
+           giveni={Q\bibinitperiod}}}%
+        {{hash=42c5bb5f434dcf76a440a531d606a712}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Guoqiang},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{44bf515911a86a553a8bfa0819d2c1dd}
+      \strng{fullhash}{44bf515911a86a553a8bfa0819d2c1dd}
+      \strng{bibnamehash}{44bf515911a86a553a8bfa0819d2c1dd}
+      \strng{authorbibnamehash}{44bf515911a86a553a8bfa0819d2c1dd}
+      \strng{authornamehash}{44bf515911a86a553a8bfa0819d2c1dd}
+      \strng{authorfullhash}{44bf515911a86a553a8bfa0819d2c1dd}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A class of innovative artificial muscles made of high-strength polymeric fibers such as fishing lines or sewing threads have been discovered recently. These muscles are fabricated by a simple “twist-insertion” procedure, which have attracted increasing attention due to their low cost and readily availability, giant tensile stroke, record energy density, and easy controllability. In the present paper, we established a multi-scale modeling framework for the thermomechanical actuation responses by a top-down strategy, spanning from macro-scale helical spring analysis down to molecular level chain interaction study. Comparison between modeling results and experimental results exhibited excellent agreement. The effect of the micro-, meso- and macro-scale parameters on the actuation responses of the artificial muscle was further discussed through a parametric study per the validated model. This work helps understand the physical origin behind the remarkable tensile actuation behavior of the twisted-then-coiled polymeric artificial muscles and also provides inspirations for optimal design of advanced artificial muscles made by twist-insertion procedure.}
+      \field{day}{1}
+      \field{issn}{0022-5096}
+      \field{journaltitle}{Journal of the Mechanics and Physics of Solids}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{title}{A top-down multi-scale modeling for actuation response of polymeric artificial muscles}
+      \field{urlday}{4}
+      \field{urlmonth}{8}
+      \field{urlyear}{2022}
+      \field{volume}{92}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{237\bibrangedash 259}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1016/j.jmps.2016.04.007
+      \endverb
+      \verb{file}
+      \verb Accepted Version:/home/michaelnaps/Zotero/storage/JAMZZJ5A/Yang and Li - 2016 - A top-down multi-scale modeling for actuation resp.pdf:application/pdf;ScienceDirect Snapshot:/home/michaelnaps/Zotero/storage/EAGC5FGB/S0022509615303537.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022509615303537
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0022509615303537
+      \endverb
+      \keyw{Actuation,Artificial muscle,Fiber,Multi-scale modeling,Top-down analysis}
+    \endentry
+    \entry{guo_continuum_2019}{article}{}
+      \name{author}{7}{}{%
+        {{hash=12e5c129575811b74e80a4662971e0b0}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Hao},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f2597078f1e714ce18dbf43145dadb95}{%
+           family={Ju},
+           familyi={J\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b2557621ea26170827ec21fc620f590e}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Yanfei},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=72b3cccfc646adeb1d6b20320b56fd7d}{%
+           family={Qi},
+           familyi={Q\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod}}}%
+        {{hash=037a0629847ba6fcbfa6b95ac6b34c47}{%
+           family={Bai},
+           familyi={B\bibinitperiod},
+           given={Dongming},
+           giveni={D\bibinitperiod}}}%
+        {{hash=29451fa673e289fd172ce83690f3fbec}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yaoyao},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=97598b6c120cfb65c84ec94166e96ab1}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Bai},
+           giveni={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{28c350d27be1ca8373cb9f59e18201c9}
+      \strng{fullhash}{5912e8b085a07f74e89736fdc704622b}
+      \strng{bibnamehash}{28c350d27be1ca8373cb9f59e18201c9}
+      \strng{authorbibnamehash}{28c350d27be1ca8373cb9f59e18201c9}
+      \strng{authornamehash}{28c350d27be1ca8373cb9f59e18201c9}
+      \strng{authorfullhash}{5912e8b085a07f74e89736fdc704622b}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09244247}
+      \field{journaltitle}{Sensors and Actuators A: Physical}
+      \field{langid}{english}
+      \field{month}{1}
+      \field{title}{Continuum robot shape estimation using permanent magnets and magnetic sensors}
+      \field{urlday}{3}
+      \field{urlmonth}{8}
+      \field{urlyear}{2022}
+      \field{volume}{285}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{519\bibrangedash 530}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.sna.2018.11.030
+      \endverb
+      \verb{file}
+      \verb Guo et al. - 2019 - Continuum robot shape estimation using permanent m.pdf:/home/michaelnaps/Zotero/storage/6Z3ETVWY/Guo et al. - 2019 - Continuum robot shape estimation using permanent m.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0924424718312974
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0924424718312974
+      \endverb
+    \endentry
+    \entry{byravan_se3-nets_2017}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=92babce6d69105729d815e93c1bdb54c}{%
+           family={Byravan},
+           familyi={B\bibinitperiod},
+           given={Arunkumar},
+           giveni={A\bibinitperiod}}}%
+        {{hash=93b0c4a7857a82a8f94e256475887c74}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{89067ee7a3681a93d853ee75652f4ec9}
+      \strng{fullhash}{89067ee7a3681a93d853ee75652f4ec9}
+      \strng{bibnamehash}{89067ee7a3681a93d853ee75652f4ec9}
+      \strng{authorbibnamehash}{89067ee7a3681a93d853ee75652f4ec9}
+      \strng{authornamehash}{89067ee7a3681a93d853ee75652f4ec9}
+      \strng{authorfullhash}{89067ee7a3681a93d853ee75652f4ec9}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We introduce {SE}3-Nets which are deep neural networks designed to model and learn rigid body motion from raw point cloud data. Based only on sequences of depth images along with action vectors and point wise data associations, {SE}3-Nets learn to segment effected object parts and predict their motion resulting from the applied force. Rather than learning point wise flow vectors, {SE}3-Nets predict {SE}(3) transformations for different parts of the scene. Using simulated depth data of a table top scene and a robot manipulator, we show that the structure underlying {SE}3-Nets enables them to generate a far more consistent prediction of object motion than traditional flow based networks. Additional experiments with a depth camera observing a Baxter robot pushing objects on a table show that {SE}3-Nets also work well on real data.}
+      \field{booktitle}{2017 {IEEE} International Conference on Robotics and Automation ({ICRA})}
+      \field{eventtitle}{2017 {IEEE} International Conference on Robotics and Automation ({ICRA})}
+      \field{month}{5}
+      \field{shorttitle}{{SE}3-nets}
+      \field{title}{{SE}3-nets: Learning rigid body motion using deep neural networks}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{173\bibrangedash 180}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/ICRA.2017.7989023
+      \endverb
+      \verb{file}
+      \verb IEEE Xplore Abstract Record:/home/michaelnaps/Zotero/storage/CXU3R48D/7989023.html:text/html;IEEE Xplore Full Text PDF:/home/michaelnaps/Zotero/storage/JJD553A8/Byravan and Fox - 2017 - SE3-nets Learning rigid body motion using deep ne.pdf:application/pdf
+      \endverb
+      \keyw{Dynamics,Predictive models,Decoding,Motion segmentation,Three-dimensional displays,Transforms}
+    \endentry
+    \entry{yang_efficient_2000}{article}{}
+      \name{author}{2}{}{%
+        {{hash=363617be0086b899f7b3373f762969ca}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Simon\bibnamedelima X},
+           giveni={S\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
+        {{hash=39e2df31ee11c2e4e6edfa43b18d7e56}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Max},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{6d7b5b39ea4b3503df122ecf74e43ebf}
+      \strng{fullhash}{6d7b5b39ea4b3503df122ecf74e43ebf}
+      \strng{bibnamehash}{6d7b5b39ea4b3503df122ecf74e43ebf}
+      \strng{authorbibnamehash}{6d7b5b39ea4b3503df122ecf74e43ebf}
+      \strng{authornamehash}{6d7b5b39ea4b3503df122ecf74e43ebf}
+      \strng{authorfullhash}{6d7b5b39ea4b3503df122ecf74e43ebf}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this paper, a biologically inspired neural network approach to real-time collision-free motion planning of mobile robots or robot manipulators in a nonstationary environment is proposed. Each neuron in the topologically organized neural network has only local connections, whose neural dynamics is characterized by a shunting equation. Thus the computational complexity linearly depends on the neural network size. The real-time robot motion is planned through the dynamic activity landscape of the neural network without any prior knowledge of the dynamic environment, without explicitly searching over the free workspace or the collision paths, and without any learning procedures. Therefore it is computationally efficient. The global stability of the neural network is guaranteed by qualitative analysis and the Lyapunov stability theory. The effectiveness and efficiency of the proposed approach are demonstrated through simulation studies.}
+      \field{day}{1}
+      \field{issn}{0893-6080}
+      \field{journaltitle}{Neural Networks}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{number}{2}
+      \field{title}{An efficient neural network approach to dynamic robot motion planning}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{13}
+      \field{year}{2000}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{143\bibrangedash 148}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/S0893-6080(99)00103-3
+      \endverb
+      \verb{file}
+      \verb ScienceDirect Snapshot:/home/michaelnaps/Zotero/storage/XWP5PMCM/S0893608099001033.html:text/html;Yang and Meng - 2000 - An efficient neural network approach to dynamic ro.pdf:/home/michaelnaps/Zotero/storage/KPNYH7CM/Yang and Meng - 2000 - An efficient neural network approach to dynamic ro.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0893608099001033
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0893608099001033
+      \endverb
+      \keyw{Collision avoidance,Neural networks,Real-time algorithm,Robot navigation}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
