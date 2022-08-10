@@ -1,0 +1,17 @@
+\section{Aim 3}
+
+\subsection{Rationale}
+
+The primary goal of Aim 3 will be to integrate the on-board micro-controller with the neural network developed in the Spring of 2022 by the computer science and engineering capstone team. Their system utilizes a trained neural network to identify and trace the anatomical features of the airway from video records. The outputs of the identifier are boxes which encapsulate the feature, as well as a confidence interval value which relays how likely it is that the feature was identified correctly.
+
+The automation component of the device is wholly dependent on the system discussed here. It will most likely be implemented on board the device, but depending on its weight and specifications, it may be run on a separate unit, with a more complex communication system. Either way, the device will be capable of this feature with the addition of the camera to the end effector.
+
+\subsection{Approach}
+
+The neural network referenced here is largely sitting in a completed state. It is currently trained on a set of human mannequin example videos and performs to a high degree of accuracy. Once access is granted for the human intubation procedure videos housed on the Ohio State University Wexner Medical Center computer system, the network can be retrained for real human anatomy. The work done by the CSE department capstone team will be used to streamline this process, as they setup the neural network layers efficiently and were able to identify the anatomical features from human mannequin footage. The same network can thus be used for the real system.
+
+Once the network is trained, a communication system between the on-board micro-controller and the NN will be developed. The current plan is to evaluate the run-time needs of the neural network and quantify whether it can be run from within the housing module, or if it should be run externally and communicate via a wired connection. It should be noted that the control system from Aim 1 does not need to be finished to test this communication system. As long as the outputs from the network match the inputs to the controller, they can be developed in parallel. This means that at the beginning of both processes, the communication point will be defined thoroughly to alleviate any difficulties down the road.
+
+\subsection{Risks and Alternatives}
+
+The largest risk in the development of the neural network is defining the level of confidence which the controller will allow before deciding a motion is safe. In other words, how low of a confidence is acceptable before the controller refuses to move in that direction. Setting this value too low factors in an obvious level of risk to the patient, as the device may navigate towards incorrectly identified features. Setting this setting too high may put the device at risk of stalling, i.e. reaching a point where no features are identifiable and not being able to make a decision. Ideally, a fail-safe will be implemented to account for this but it is also important to remember that the device as a whole is being designed with the intent that the practitioner is never absent from the procedure. They are required to watch the approach of the robot into the airway, and in these rare instances they would easily be able to manually override the neural network and move the robot in the proper direction.

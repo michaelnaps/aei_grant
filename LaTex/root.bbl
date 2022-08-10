@@ -399,47 +399,6 @@
       \verb https://linkinghub.elsevier.com/retrieve/pii/S0924424718312974
       \endverb
     \endentry
-    \entry{byravan_se3-nets_2017}{inproceedings}{}
-      \name{author}{2}{}{%
-        {{hash=92babce6d69105729d815e93c1bdb54c}{%
-           family={Byravan},
-           familyi={B\bibinitperiod},
-           given={Arunkumar},
-           giveni={A\bibinitperiod}}}%
-        {{hash=93b0c4a7857a82a8f94e256475887c74}{%
-           family={Fox},
-           familyi={F\bibinitperiod},
-           given={Dieter},
-           giveni={D\bibinitperiod}}}%
-      }
-      \strng{namehash}{89067ee7a3681a93d853ee75652f4ec9}
-      \strng{fullhash}{89067ee7a3681a93d853ee75652f4ec9}
-      \strng{bibnamehash}{89067ee7a3681a93d853ee75652f4ec9}
-      \strng{authorbibnamehash}{89067ee7a3681a93d853ee75652f4ec9}
-      \strng{authornamehash}{89067ee7a3681a93d853ee75652f4ec9}
-      \strng{authorfullhash}{89067ee7a3681a93d853ee75652f4ec9}
-      \field{sortinit}{9}
-      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{shorttitle}
-      \field{abstract}{We introduce {SE}3-Nets which are deep neural networks designed to model and learn rigid body motion from raw point cloud data. Based only on sequences of depth images along with action vectors and point wise data associations, {SE}3-Nets learn to segment effected object parts and predict their motion resulting from the applied force. Rather than learning point wise flow vectors, {SE}3-Nets predict {SE}(3) transformations for different parts of the scene. Using simulated depth data of a table top scene and a robot manipulator, we show that the structure underlying {SE}3-Nets enables them to generate a far more consistent prediction of object motion than traditional flow based networks. Additional experiments with a depth camera observing a Baxter robot pushing objects on a table show that {SE}3-Nets also work well on real data.}
-      \field{booktitle}{2017 {IEEE} International Conference on Robotics and Automation ({ICRA})}
-      \field{eventtitle}{2017 {IEEE} International Conference on Robotics and Automation ({ICRA})}
-      \field{month}{5}
-      \field{shorttitle}{{SE}3-nets}
-      \field{title}{{SE}3-nets: Learning rigid body motion using deep neural networks}
-      \field{year}{2017}
-      \field{dateera}{ce}
-      \field{pages}{173\bibrangedash 180}
-      \range{pages}{8}
-      \verb{doi}
-      \verb 10.1109/ICRA.2017.7989023
-      \endverb
-      \verb{file}
-      \verb IEEE Xplore Abstract Record:/home/michaelnaps/Zotero/storage/CXU3R48D/7989023.html:text/html;IEEE Xplore Full Text PDF:/home/michaelnaps/Zotero/storage/JJD553A8/Byravan and Fox - 2017 - SE3-nets Learning rigid body motion using deep ne.pdf:application/pdf
-      \endverb
-      \keyw{Dynamics,Predictive models,Decoding,Motion segmentation,Three-dimensional displays,Transforms}
-    \endentry
     \entry{yang_efficient_2000}{article}{}
       \name{author}{2}{}{%
         {{hash=363617be0086b899f7b3373f762969ca}{%
@@ -493,6 +452,264 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0893608099001033
       \endverb
       \keyw{Collision avoidance,Neural networks,Real-time algorithm,Robot navigation}
+    \endentry
+    \entry{byravan_se3-nets_2017}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=92babce6d69105729d815e93c1bdb54c}{%
+           family={Byravan},
+           familyi={B\bibinitperiod},
+           given={Arunkumar},
+           giveni={A\bibinitperiod}}}%
+        {{hash=93b0c4a7857a82a8f94e256475887c74}{%
+           family={Fox},
+           familyi={F\bibinitperiod},
+           given={Dieter},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{89067ee7a3681a93d853ee75652f4ec9}
+      \strng{fullhash}{89067ee7a3681a93d853ee75652f4ec9}
+      \strng{bibnamehash}{89067ee7a3681a93d853ee75652f4ec9}
+      \strng{authorbibnamehash}{89067ee7a3681a93d853ee75652f4ec9}
+      \strng{authornamehash}{89067ee7a3681a93d853ee75652f4ec9}
+      \strng{authorfullhash}{89067ee7a3681a93d853ee75652f4ec9}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{We introduce {SE}3-Nets which are deep neural networks designed to model and learn rigid body motion from raw point cloud data. Based only on sequences of depth images along with action vectors and point wise data associations, {SE}3-Nets learn to segment effected object parts and predict their motion resulting from the applied force. Rather than learning point wise flow vectors, {SE}3-Nets predict {SE}(3) transformations for different parts of the scene. Using simulated depth data of a table top scene and a robot manipulator, we show that the structure underlying {SE}3-Nets enables them to generate a far more consistent prediction of object motion than traditional flow based networks. Additional experiments with a depth camera observing a Baxter robot pushing objects on a table show that {SE}3-Nets also work well on real data.}
+      \field{booktitle}{2017 {IEEE} International Conference on Robotics and Automation ({ICRA})}
+      \field{eventtitle}{2017 {IEEE} International Conference on Robotics and Automation ({ICRA})}
+      \field{month}{5}
+      \field{shorttitle}{{SE}3-nets}
+      \field{title}{{SE}3-nets: Learning rigid body motion using deep neural networks}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{173\bibrangedash 180}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/ICRA.2017.7989023
+      \endverb
+      \verb{file}
+      \verb IEEE Xplore Abstract Record:/home/michaelnaps/Zotero/storage/CXU3R48D/7989023.html:text/html;IEEE Xplore Full Text PDF:/home/michaelnaps/Zotero/storage/JJD553A8/Byravan and Fox - 2017 - SE3-nets Learning rigid body motion using deep ne.pdf:application/pdf
+      \endverb
+      \keyw{Dynamics,Predictive models,Decoding,Motion segmentation,Three-dimensional displays,Transforms}
+    \endentry
+    \entry{bernhard_first_2015}{article}{}
+      \name{author}{5}{}{%
+        {{hash=5eaba9edc5caa618157dccec75fcb233}{%
+           family={Bernhard},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=127369f643379c55d128a8f3d549a318}{%
+           family={Becker},
+           familyi={B\bibinitperiod},
+           given={Torben\bibnamedelima K.},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=6d0d3d246f520ad633e85b7dd627d5d1}{%
+           family={Gries},
+           familyi={G\bibinitperiod},
+           given={André},
+           giveni={A\bibinitperiod}}}%
+        {{hash=4ad89fac879c5b6b921a36b13e6458a6}{%
+           family={Knapp},
+           familyi={K\bibinitperiod},
+           given={Jürgen},
+           giveni={J\bibinitperiod}}}%
+        {{hash=07d80ec68926e37ebc33d501320ab808}{%
+           family={Wenzel},
+           familyi={W\bibinitperiod},
+           given={Volker},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{0deadf4bee0b64de613c3c44b7e779d6}
+      \strng{fullhash}{6b04bcbc89aadeed916bf5763cc724fb}
+      \strng{bibnamehash}{0deadf4bee0b64de613c3c44b7e779d6}
+      \strng{authorbibnamehash}{0deadf4bee0b64de613c3c44b7e779d6}
+      \strng{authornamehash}{0deadf4bee0b64de613c3c44b7e779d6}
+      \strng{authorfullhash}{6b04bcbc89aadeed916bf5763cc724fb}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{issn}{0003-2999}
+      \field{journaltitle}{Anesthesia \& Analgesia}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{number}{5}
+      \field{shorttitle}{The First Shot Is Often the Best Shot}
+      \field{title}{The First Shot Is Often the Best Shot: First-Pass Intubation Success in Emergency Airway Management}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{121}
+      \field{year}{2015}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{1389\bibrangedash 1393}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1213/ANE.0000000000000891
+      \endverb
+      \verb{file}
+      \verb Bernhard et al. - 2015 - The First Shot Is Often the Best Shot First-Pass .pdf:/home/michaelnaps/Zotero/storage/QS3ENZ8C/Bernhard et al. - 2015 - The First Shot Is Often the Best Shot First-Pass .pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://journals.lww.com/00000539-201511000-00039
+      \endverb
+      \verb{url}
+      \verb https://journals.lww.com/00000539-201511000-00039
+      \endverb
+    \endentry
+    \entry{hemmerling_first_2012}{article}{}
+      \name{author}{6}{}{%
+        {{hash=ccda01609749dda234bbb00ab777bc58}{%
+           family={Hemmerling},
+           familyi={H\bibinitperiod},
+           given={T.\bibnamedelimi M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=b9a404d25f87559b7f51fdc7b31d7c1e}{%
+           family={Taddei},
+           familyi={T\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4a77a5135b08ba80412303800831cb77}{%
+           family={Wehbe},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b42d8f3ed84517afe866ba8d3689a30f}{%
+           family={Zaouter},
+           familyi={Z\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b6092181c84897174c77560729b89df4}{%
+           family={Cyr},
+           familyi={C\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=65a7779ab0ed11c961d27952d8269ec3}{%
+           family={Morse},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{2f7ca5c41b217166bc093dc7d747095e}
+      \strng{fullhash}{dcca6e658db3dd676a719b5e7024e6b8}
+      \strng{bibnamehash}{2f7ca5c41b217166bc093dc7d747095e}
+      \strng{authorbibnamehash}{2f7ca5c41b217166bc093dc7d747095e}
+      \strng{authornamehash}{2f7ca5c41b217166bc093dc7d747095e}
+      \strng{authorfullhash}{dcca6e658db3dd676a719b5e7024e6b8}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{1}
+      \field{issn}{0007-0912, 1471-6771}
+      \field{journaltitle}{British Journal of Anaesthesia}
+      \field{month}{6}
+      \field{note}{Publisher: Elsevier}
+      \field{number}{6}
+      \field{title}{First robotic tracheal intubations in humans using the Kepler intubation system}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{108}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{1011\bibrangedash 1016}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1093/bja/aes034
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/michaelnaps/Zotero/storage/CU54XMC9/Hemmerling et al. - 2012 - First robotic tracheal intubations in humans using.pdf:application/pdf;Snapshot:/home/michaelnaps/Zotero/storage/K6HY6HF8/fulltext.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.bjanaesthesia.org/article/S0007-0912(17)32196-7/fulltext
+      \endverb
+      \verb{url}
+      \verb https://www.bjanaesthesia.org/article/S0007-0912(17)32196-7/fulltext
+      \endverb
+      \keyw{airway,larynx,robot,Robot Intubation,tracheal intubation}
+    \endentry
+    \entry{noauthor_most_nodate}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Most Frequent Procedures Performed in U.S. Hospitals, 2011 - Statistical Brief \#165}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Most Frequent Procedures Performed in U.S. Hospitals, 2011 - Statistical Brief #165:/home/michaelnaps/Zotero/storage/PXPE2C96/sb165.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.hcup-us.ahrq.gov/reports/statbriefs/sb165.jsp
+      \endverb
+      \verb{url}
+      \verb https://www.hcup-us.ahrq.gov/reports/statbriefs/sb165.jsp
+      \endverb
+      \keyw{Frequent Procedures}
+    \endentry
+    \entry{karami_modeling_2017}{article}{}
+      \name{author}{2}{}{%
+        {{hash=daa30719ed4461027625df0b85a6f067}{%
+           family={Karami},
+           familyi={K\bibinitperiod},
+           given={Farzad},
+           giveni={F\bibinitperiod}}}%
+        {{hash=dcd30770b1688a08d519c1cb355e7dc3}{%
+           family={Tadesse},
+           familyi={T\bibinitperiod},
+           given={Yonas},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cc9c26c225c46b20ce714e91fc7413a}
+      \strng{fullhash}{2cc9c26c225c46b20ce714e91fc7413a}
+      \strng{bibnamehash}{2cc9c26c225c46b20ce714e91fc7413a}
+      \strng{authorbibnamehash}{2cc9c26c225c46b20ce714e91fc7413a}
+      \strng{authornamehash}{2cc9c26c225c46b20ce714e91fc7413a}
+      \strng{authorfullhash}{2cc9c26c225c46b20ce714e91fc7413a}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Twisted and coiled polymers ({TCP}) muscles are linear actuators that respond to change in temperature. Exploiting high negative coefficient of thermal expansion ({CTE}) and helical geometry give them a significant ability to change length in a limited temperature range. Several applications and experimental data of these materials have been demonstrated in the last few years. To use these actuators in robotics and control system applications, a mathematical model for predicting their behavior is essential. In this work, a practical and accurate phenomenological model for estimating the displacement of {TCP} muscles, as a function of the load as well as input electrical current, is proposed. The problem is broken down into two parts, i.e. modeling of the electro-thermal and then the thermo-elastic behavior of the muscles. For the first part, a differential equation, with changing electrical resistance term, is derived. Next, by using a temperature-dependent modulus of elasticity and {CTE} as well as taking the geometry of the muscles into account, an expression for displacement is derived. Experimental data for different loads and actuation current levels are used for verifying the model and investigating its accuracy. The result shows a good agreement between the simulation and experimental results for all loads.}
+      \field{issn}{0964-1726}
+      \field{journaltitle}{Smart Mater. Struct.}
+      \field{langid}{english}
+      \field{month}{11}
+      \field{note}{Publisher: {IOP} Publishing}
+      \field{number}{12}
+      \field{title}{Modeling of twisted and coiled polymer ({TCP}) muscle based on phenomenological approach}
+      \field{urlday}{22}
+      \field{urlmonth}{6}
+      \field{urlyear}{2022}
+      \field{volume}{26}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{125010}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1361-665X/aa8d7d
+      \endverb
+      \verb{file}
+      \verb IOP Full Text PDF:/home/michaelnaps/Zotero/storage/S6PQB486/Karami and Tadesse - 2017 - Modeling of twisted and coiled polymer (TCP) muscl.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1088/1361-665x/aa8d7d
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1088/1361-665x/aa8d7d
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
