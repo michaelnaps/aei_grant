@@ -2355,8 +2355,8 @@
     <bcf:citekey order="6">yang_top-down_2016</bcf:citekey>
     <bcf:citekey order="7">rao_how_2021</bcf:citekey>
     <bcf:citekey order="8">guo_continuum_2019</bcf:citekey>
-    <bcf:citekey order="9">byravan_se3-nets_2017</bcf:citekey>
     <bcf:citekey order="9">yang_efficient_2000</bcf:citekey>
+    <bcf:citekey order="9">byravan_se3-nets_2017</bcf:citekey>
     <bcf:citekey order="10">haines_new_2016</bcf:citekey>
     <bcf:citekey order="0" nocite="1">*</bcf:citekey>
     <bcf:citekey order="11">wu_compact_2017</bcf:citekey>
@@ -2365,8 +2365,8 @@
     <bcf:citekey order="14">rao_how_2021</bcf:citekey>
     <bcf:citekey order="15">yang_top-down_2016</bcf:citekey>
     <bcf:citekey order="16">guo_continuum_2019</bcf:citekey>
-    <bcf:citekey order="17">byravan_se3-nets_2017</bcf:citekey>
-    <bcf:citekey order="18">yang_efficient_2000</bcf:citekey>
+    <bcf:citekey order="17">yang_efficient_2000</bcf:citekey>
+    <bcf:citekey order="18">byravan_se3-nets_2017</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">
