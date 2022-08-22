@@ -1,4 +1,4 @@
-\section{Aim 2 Breakdown}
+\section{Breakdown}
 
 \subsection{Rationale}
 
@@ -44,10 +44,14 @@
 	
 	\subsubsection{Experimental Process}
 	
-		The experimental process practiced here will primarily be focused on end-user compatibility, end effector flexibility, and dimension fitting. Since the prototype is obselete if the end effector does not fit within the confines of the intubation tube, this specification will be prioritized. TCP string is known for its high degree of flexbility, one reason why it is ideal for working in such a tight environment \cite{haines_new_2016}. That said, the inner components will most likely have to be optimized such that the dimension tests can be fulfilled reliably.
+		The experimental process practiced here will primarily be focused on patient compatibility, end effector flexibility, and dimension fitting. Since the prototype is obselete if the end effector does not fit within the confines of the intubation tube, this specification will be prioritized. TCP string is known for its high degree of flexbility, one reason why it is ideal for working in such a tight environment \cite{haines_new_2016}. That said, the inner components will most likely have to be optimized such that the dimension tests can be fulfilled reliably.
 		
-		Flexibility tests will occur for the two main components seperately, as well as for the final assembly. The prototype is currently planned to be slightly more rigid in the core tubing section than in the end effector. The end effector must be able to freely stretch in all directions in the full assembly. While the core tubing should be slightly more rigid, allowing it to be extruded from the control module reliably.
+		Flexibility tests will occur for the two main components seperately, as well as for the final assembly, and are represneted by schedule items 28, 34 and 43 in Figure \ref{fig:full_timeline}. The end effector must be able to freely stretch in all directions in the full assembly while the core tubing should be slightly more rigid, allowing it to be extruded from the control module reliably. Pass/fail parameters for these tests will be defined more thoroughly before the project start.
+		
+		The final test is the compatibility test and will likely be non-pervasive, which is why it is not referenced directly on the project timeline. This test is to ensure the materials being utilized are compatible with the human airway anatomy, and do not pose any form of danger to the patient. To account for this during the design process, only pre-approved anatomy-compatible materials will be considered for the composition of the end effector, core tubing and connector segments. For this reason, the testing of the materials is not given scheduling time.
 
 \subsection{Risks and Alternatives}
 
-	The largest risk being addressed in this portion of development is the hard constraint for the diameter of the tubing. The most complex portion of the tubing, the end effector, must fit within the confines of commonly used intubating tubes. For development purposes, the constraint can be relaxed to the smallest adult-specific tube available ($8[mm]$ diameter) instead of tubes used in children. That said, in the event that the TCP and other components do not fit within these constraints, alternatives to this configuration will have to be researched.
+	The largest risk being addressed in this portion of development is the hard constraint for the diameter of the tubing. The most complex portion of the tubing, the end effector, must fit within the confines of commonly used intubating tubes. For development purposes, the constraint can be relaxed to the smallest adult-specific tube available ($8[mm]$ diameter). This will likely be more than enough room for the current configuration since the OSU capstone project final design was very close to fitting comfortably, despite having many imperfections in the design of the end effector.
+	
+	It should also be noted that the circuit diagram referenced in Figure \ref{fig:tcp_circuit} does not include the end effector light or camera, meaning it will have to be incorporated during the project planning period. The system will likely resemble the current flexibile intubation scope camera/light system, although more research is required before making the final adjustments to the circuit.
